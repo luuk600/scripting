@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vanec\\source\\repos\\school\\",
+  "WorkspaceRootPath": "C:\\Users\\vanec\\source\\repos\\scripting\\school\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E64A99B0-1A73-4B39-83B1-44DEFFEE6555}|errors\\errors.csproj|c:\\users\\vanec\\source\\repos\\school\\errors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64A99B0-1A73-4B39-83B1-44DEFFEE6555}|errors\\errors.csproj|solutionrelative:errors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanec\\source\\repos\\scripting\\school\\life could be a dream\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:life could be a dream\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4048C937-6B37-443D-8F32-881540137A1E}|try 2 24-5-2024\\try 2 24-5-2024.csproj|c:\\users\\vanec\\source\\repos\\school\\try 2 24-5-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4048C937-6B37-443D-8F32-881540137A1E}|try 2 24-5-2024\\try 2 24-5-2024.csproj|solutionrelative:try 2 24-5-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanec\\source\\repos\\scripting\\school\\life could be a dream\\life could be a dream.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:life could be a dream\\life could be a dream.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{160E169C-B572-4C44-AFAD-62275473AB6F}|life could be a dream\\life could be a dream.csproj|c:\\users\\vanec\\source\\repos\\school\\life could be a dream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{160E169C-B572-4C44-AFAD-62275473AB6F}|life could be a dream\\life could be a dream.csproj|solutionrelative:life could be a dream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanec\\source\\repos\\scripting\\school\\errors\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:errors\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanec\\source\\repos\\scripting\\school\\try 2 24-5-2024\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:try 2 24-5-2024\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "life could be a dream.csproj",
+              "DocumentMoniker": "C:\\Users\\vanec\\source\\repos\\scripting\\school\\life could be a dream\\life could be a dream.csproj",
+              "RelativeDocumentMoniker": "life could be a dream\\life could be a dream.csproj",
+              "ToolTip": "C:\\Users\\vanec\\source\\repos\\scripting\\school\\life could be a dream\\life could be a dream.csproj",
+              "RelativeToolTip": "life could be a dream\\life could be a dream.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T08:02:26.255Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vanec\\source\\repos\\school\\errors\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vanec\\source\\repos\\scripting\\school\\errors\\Program.cs",
               "RelativeDocumentMoniker": "errors\\Program.cs",
-              "ToolTip": "C:\\Users\\vanec\\source\\repos\\school\\errors\\Program.cs",
+              "ToolTip": "C:\\Users\\vanec\\source\\repos\\scripting\\school\\errors\\Program.cs",
               "RelativeToolTip": "errors\\Program.cs",
               "ViewState": "AQIAAMcAAAAAAAAAAAAkwOQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,28 +56,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vanec\\source\\repos\\school\\try 2 24-5-2024\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vanec\\source\\repos\\scripting\\school\\try 2 24-5-2024\\Program.cs",
               "RelativeDocumentMoniker": "try 2 24-5-2024\\Program.cs",
-              "ToolTip": "C:\\Users\\vanec\\source\\repos\\school\\try 2 24-5-2024\\Program.cs",
+              "ToolTip": "C:\\Users\\vanec\\source\\repos\\scripting\\school\\try 2 24-5-2024\\Program.cs",
               "RelativeToolTip": "try 2 24-5-2024\\Program.cs",
               "ViewState": "AQIAAL8AAAAAAAAAAAAkwMsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T08:42:07.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T08:42:07.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vanec\\source\\repos\\school\\life could be a dream\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vanec\\source\\repos\\scripting\\school\\life could be a dream\\Program.cs",
               "RelativeDocumentMoniker": "life could be a dream\\Program.cs",
-              "ToolTip": "C:\\Users\\vanec\\source\\repos\\school\\life could be a dream\\Program.cs",
+              "ToolTip": "C:\\Users\\vanec\\source\\repos\\scripting\\school\\life could be a dream\\Program.cs",
               "RelativeToolTip": "life could be a dream\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T08:35:44.257Z"
+              "WhenOpened": "2024-05-24T08:35:44.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

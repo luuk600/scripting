@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("life could be a dream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef034aa819f6ec5295af55f4554b2a30b320739c")]
 [assembly: System.Reflection.AssemblyProductAttribute("life could be a dream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("life could be a dream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

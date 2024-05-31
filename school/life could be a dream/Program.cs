@@ -14,6 +14,7 @@ class SimpleChatbot
 
             if (userInput == "exit")
             {
+                //ok
                 Console.WriteLine("Chatbot: Tot ziens!");
                 break;
             }
