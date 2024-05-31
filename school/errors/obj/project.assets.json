@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vanec\\source\\repos\\school\\errors\\errors.csproj",
+      "projectUniqueName": "C:\\Users\\vanec\\source\\repos\\scripting\\school\\errors\\errors.csproj",
       "projectName": "errors",
-      "projectPath": "C:\\Users\\vanec\\source\\repos\\school\\errors\\errors.csproj",
+      "projectPath": "C:\\Users\\vanec\\source\\repos\\scripting\\school\\errors\\errors.csproj",
       "packagesPath": "C:\\Users\\vanec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vanec\\source\\repos\\school\\errors\\obj\\",
+      "outputPath": "C:\\Users\\vanec\\source\\repos\\scripting\\school\\errors\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
