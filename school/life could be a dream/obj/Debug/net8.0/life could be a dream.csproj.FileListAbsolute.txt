@@ -1,0 +1,14 @@
+C:\Users\vanec\source\repos\school\life could be a dream\bin\Debug\net8.0\life could be a dream.exe
+C:\Users\vanec\source\repos\school\life could be a dream\bin\Debug\net8.0\life could be a dream.deps.json
+C:\Users\vanec\source\repos\school\life could be a dream\bin\Debug\net8.0\life could be a dream.runtimeconfig.json
+C:\Users\vanec\source\repos\school\life could be a dream\bin\Debug\net8.0\life could be a dream.dll
+C:\Users\vanec\source\repos\school\life could be a dream\bin\Debug\net8.0\life could be a dream.pdb
+C:\Users\vanec\source\repos\school\life could be a dream\obj\Debug\net8.0\life could be a dream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanec\source\repos\school\life could be a dream\obj\Debug\net8.0\life could be a dream.AssemblyInfoInputs.cache
+C:\Users\vanec\source\repos\school\life could be a dream\obj\Debug\net8.0\life could be a dream.AssemblyInfo.cs
+C:\Users\vanec\source\repos\school\life could be a dream\obj\Debug\net8.0\life could be a dream.csproj.CoreCompileInputs.cache
+C:\Users\vanec\source\repos\school\life could be a dream\obj\Debug\net8.0\life could be a dream.dll
+C:\Users\vanec\source\repos\school\life could be a dream\obj\Debug\net8.0\refint\life could be a dream.dll
+C:\Users\vanec\source\repos\school\life could be a dream\obj\Debug\net8.0\life could be a dream.pdb
+C:\Users\vanec\source\repos\school\life could be a dream\obj\Debug\net8.0\life could be a dream.genruntimeconfig.cache
+C:\Users\vanec\source\repos\school\life could be a dream\obj\Debug\net8.0\ref\life could be a dream.dll
