@@ -1,0 +1,15 @@
+C:\Users\vanec\source\repos\scripting\school\moreresponses\bin\Debug\net8.0\moreresponses.exe
+C:\Users\vanec\source\repos\scripting\school\moreresponses\bin\Debug\net8.0\moreresponses.deps.json
+C:\Users\vanec\source\repos\scripting\school\moreresponses\bin\Debug\net8.0\moreresponses.runtimeconfig.json
+C:\Users\vanec\source\repos\scripting\school\moreresponses\bin\Debug\net8.0\moreresponses.dll
+C:\Users\vanec\source\repos\scripting\school\moreresponses\bin\Debug\net8.0\moreresponses.pdb
+C:\Users\vanec\source\repos\scripting\school\moreresponses\obj\Debug\net8.0\moreresponses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanec\source\repos\scripting\school\moreresponses\obj\Debug\net8.0\moreresponses.AssemblyInfoInputs.cache
+C:\Users\vanec\source\repos\scripting\school\moreresponses\obj\Debug\net8.0\moreresponses.AssemblyInfo.cs
+C:\Users\vanec\source\repos\scripting\school\moreresponses\obj\Debug\net8.0\moreresponses.csproj.CoreCompileInputs.cache
+C:\Users\vanec\source\repos\scripting\school\moreresponses\obj\Debug\net8.0\moreresponses.sourcelink.json
+C:\Users\vanec\source\repos\scripting\school\moreresponses\obj\Debug\net8.0\moreresponses.dll
+C:\Users\vanec\source\repos\scripting\school\moreresponses\obj\Debug\net8.0\refint\moreresponses.dll
+C:\Users\vanec\source\repos\scripting\school\moreresponses\obj\Debug\net8.0\moreresponses.pdb
+C:\Users\vanec\source\repos\scripting\school\moreresponses\obj\Debug\net8.0\moreresponses.genruntimeconfig.cache
+C:\Users\vanec\source\repos\scripting\school\moreresponses\obj\Debug\net8.0\ref\moreresponses.dll

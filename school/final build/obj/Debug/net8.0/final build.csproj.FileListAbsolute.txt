@@ -1,0 +1,15 @@
+C:\Users\vanec\source\repos\scripting\school\final build\bin\Debug\net8.0\final build.exe
+C:\Users\vanec\source\repos\scripting\school\final build\bin\Debug\net8.0\final build.deps.json
+C:\Users\vanec\source\repos\scripting\school\final build\bin\Debug\net8.0\final build.runtimeconfig.json
+C:\Users\vanec\source\repos\scripting\school\final build\bin\Debug\net8.0\final build.dll
+C:\Users\vanec\source\repos\scripting\school\final build\bin\Debug\net8.0\final build.pdb
+C:\Users\vanec\source\repos\scripting\school\final build\obj\Debug\net8.0\final build.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanec\source\repos\scripting\school\final build\obj\Debug\net8.0\final build.AssemblyInfoInputs.cache
+C:\Users\vanec\source\repos\scripting\school\final build\obj\Debug\net8.0\final build.AssemblyInfo.cs
+C:\Users\vanec\source\repos\scripting\school\final build\obj\Debug\net8.0\final build.csproj.CoreCompileInputs.cache
+C:\Users\vanec\source\repos\scripting\school\final build\obj\Debug\net8.0\final build.sourcelink.json
+C:\Users\vanec\source\repos\scripting\school\final build\obj\Debug\net8.0\final build.dll
+C:\Users\vanec\source\repos\scripting\school\final build\obj\Debug\net8.0\refint\final build.dll
+C:\Users\vanec\source\repos\scripting\school\final build\obj\Debug\net8.0\final build.pdb
+C:\Users\vanec\source\repos\scripting\school\final build\obj\Debug\net8.0\final build.genruntimeconfig.cache
+C:\Users\vanec\source\repos\scripting\school\final build\obj\Debug\net8.0\ref\final build.dll
